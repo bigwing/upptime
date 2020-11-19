@@ -1,7 +1,7 @@
 - url: https://bigwing.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 245
-- lastUpdated: 2020-11-19T06:46:52.666Z
+- responseTime: 274
+- lastUpdated: 2020-11-19T06:52:54.992Z
 - startTime: 2020-11-18T21:00:29.288Z
 - generator: Upptime <https://github.com/upptime/upptime>
