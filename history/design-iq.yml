@@ -1,7 +1,7 @@
 - url: https://www.designiq.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 160
-- lastUpdated: 2020-11-19T06:46:55.148Z
+- responseTime: 566
+- lastUpdated: 2020-11-19T06:52:57.071Z
 - startTime: 2020-11-18T21:00:32.456Z
 - generator: Upptime <https://github.com/upptime/upptime>
