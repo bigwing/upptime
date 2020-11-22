@@ -5,7 +5,7 @@
     "slug": "loca-li-q",
     "status": "up",
     "uptime": "100.00",
-    "time": 775
+    "time": 779
   },
   {
     "name": "BigWing",
@@ -13,7 +13,7 @@
     "slug": "big-wing",
     "status": "up",
     "uptime": "100.00",
-    "time": 416
+    "time": 429
   },
   {
     "name": "ReachLocal",
@@ -21,7 +21,7 @@
     "slug": "reach-local",
     "status": "up",
     "uptime": "100.00",
-    "time": 557
+    "time": 527
   },
   {
     "name": "DesignIQ",
@@ -37,6 +37,6 @@
     "slug": "thrive-hive",
     "status": "up",
     "uptime": "100.00",
-    "time": 187
+    "time": 181
   }
 ]
