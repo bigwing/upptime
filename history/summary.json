@@ -4,39 +4,39 @@
     "url": "https://localiq.com",
     "slug": "loca-li-q",
     "status": "up",
-    "uptime": "100.00",
-    "time": 779
+    "uptime": "100.00%",
+    "time": 777
   },
   {
     "name": "BigWing",
     "url": "https://bigwing.com",
     "slug": "big-wing",
     "status": "up",
-    "uptime": "100.00",
-    "time": 429
+    "uptime": "100.00%",
+    "time": 451
   },
   {
     "name": "ReachLocal",
     "url": "https://www.reachlocal.com",
     "slug": "reach-local",
     "status": "up",
-    "uptime": "100.00",
-    "time": 527
+    "uptime": "100.00%",
+    "time": 506
   },
   {
     "name": "DesignIQ",
     "url": "https://www.designiq.com",
     "slug": "design-iq",
     "status": "up",
-    "uptime": "100.00",
-    "time": 302
+    "uptime": "100.00%",
+    "time": 296
   },
   {
     "name": "ThriveHive",
     "url": "https://thrivehive.com",
     "slug": "thrive-hive",
     "status": "up",
-    "uptime": "100.00",
-    "time": 181
+    "uptime": "100.00%",
+    "time": 257
   }
 ]
