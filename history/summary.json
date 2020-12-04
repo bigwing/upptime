@@ -5,7 +5,15 @@
     "slug": "loca-li-q",
     "status": "up",
     "uptime": "100.00%",
-    "time": 775
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 777,
+    "timeDay": 811,
+    "timeWeek": 806,
+    "timeMonth": 777,
+    "timeYear": 777
   },
   {
     "name": "BigWing",
@@ -13,7 +21,15 @@
     "slug": "big-wing",
     "status": "up",
     "uptime": "100.00%",
-    "time": 401
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 526,
+    "timeWeek": 350,
+    "timeMonth": 407,
+    "timeYear": 407
   },
   {
     "name": "ReachLocal",
@@ -21,7 +37,15 @@
     "slug": "reach-local",
     "status": "up",
     "uptime": "100.00%",
-    "time": 586
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 576,
+    "timeDay": 354,
+    "timeWeek": 706,
+    "timeMonth": 576,
+    "timeYear": 576
   },
   {
     "name": "DesignIQ",
@@ -29,7 +53,15 @@
     "slug": "design-iq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 332
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 326,
+    "timeDay": 186,
+    "timeWeek": 391,
+    "timeMonth": 326,
+    "timeYear": 326
   },
   {
     "name": "ThriveHive",
@@ -37,6 +69,14 @@
     "slug": "thrive-hive",
     "status": "up",
     "uptime": "100.00%",
-    "time": 316
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 308,
+    "timeDay": 137,
+    "timeWeek": 397,
+    "timeMonth": 308,
+    "timeYear": 308
   }
 ]
