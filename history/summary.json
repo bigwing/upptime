@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 688,
-    "timeWeek": 808,
-    "timeMonth": 773,
-    "timeYear": 773
+    "time": 775,
+    "timeDay": 829,
+    "timeWeek": 817,
+    "timeMonth": 775,
+    "timeYear": 775
   },
   {
     "name": "BigWing",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 195,
-    "timeWeek": 348,
-    "timeMonth": 398,
-    "timeYear": 398
+    "time": 406,
+    "timeDay": 579,
+    "timeWeek": 405,
+    "timeMonth": 406,
+    "timeYear": 406
   },
   {
     "name": "ReachLocal",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 754,
-    "timeWeek": 695,
-    "timeMonth": 583,
-    "timeYear": 583
+    "time": 568,
+    "timeDay": 216,
+    "timeWeek": 530,
+    "timeMonth": 568,
+    "timeYear": 568
   },
   {
     "name": "DesignIQ",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 157,
-    "timeWeek": 294,
-    "timeMonth": 318,
-    "timeYear": 318
+    "time": 313,
+    "timeDay": 181,
+    "timeWeek": 260,
+    "timeMonth": 313,
+    "timeYear": 313
   },
   {
     "name": "ThriveHive",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 181,
-    "timeWeek": 345,
-    "timeMonth": 302,
-    "timeYear": 302
+    "time": 296,
+    "timeDay": 146,
+    "timeWeek": 348,
+    "timeMonth": 296,
+    "timeYear": 296
   }
 ]
