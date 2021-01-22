@@ -4,7 +4,7 @@
     "url": "https://localiq.com",
     "icon": "https://favicons.githubusercontent.com/localiq.com",
     "slug": "loca-li-q",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1942,
     "timeDay": 1903,
-    "timeWeek": 2297,
+    "timeWeek": 2390,
     "timeMonth": 3005,
     "timeYear": 1942,
     "dailyMinutesDown": {}
