@@ -1,19 +1,21 @@
-# Change these first
-owner: bigwing # Your GitHub username
-repo: upptime # Your Github repository name
+owner: bigwing
+repo: upptime
+user-agent: bigwing-upptime
 
-# Add your sites here
 sites:
-  - name: BigWing
-    url: https://bigwing.com
   - name: LOCALiQ
     url: https://localiq.com
+  - name: BigWing
+    url: https://bigwing.com
   - name: ReachLocal
     url: https://www.reachlocal.com
   - name: DesignIQ
     url: https://www.designiq.com
   - name: ThriveHive
     url: https://thrivehive.com
+    
+assignees:
+  - morganestes
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,9 +23,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/bigwing/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BigWing Uptime Monitor
+  introTitle: "This is an open-source uptime monitor and status page, powered entirely by GitHub and Upptime."
+  introMessage: This page uses **real-time** data from our [Github repository](https://github.com/bigwing/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
