@@ -37,7 +37,7 @@
   },
   {
     "name": "ReachLocal",
-    "url": "https://www.reachlocal.com",
+    "url": "https://www.reachlocal.com/us/en",
     "icon": "https://favicons.githubusercontent.com/www.reachlocal.com",
     "slug": "reach-local",
     "status": "up",
@@ -56,7 +56,7 @@
   {
     "name": "DesignIQ",
     "url": "https://www.designiq.com",
-    "icon": "https://favicons.githubusercontent.com/www.designiq.com",
+    "icon": "https://www.designiq.com/wp-content/uploads/2019/02/cropped-favicon-1-192x192.png",
     "slug": "design-iq",
     "status": "up",
     "uptime": "100.00%",
