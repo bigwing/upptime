@@ -8,9 +8,10 @@ sites:
   - name: BigWing
     url: https://bigwing.com
   - name: ReachLocal
-    url: https://www.reachlocal.com
+    url: https://www.reachlocal.com/us/en
   - name: DesignIQ
     url: https://www.designiq.com
+    icon: https://www.designiq.com/wp-content/uploads/2019/02/cropped-favicon-1-192x192.png
   - name: ThriveHive
     url: https://thrivehive.com
     
