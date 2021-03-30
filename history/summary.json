@@ -10,12 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 555,
-    "timeWeek": 825,
-    "timeMonth": 723,
-    "timeYear": 1529,
-    "dailyMinutesDown": {}
+    "time": 1525,
+    "timeDay": 932,
+    "timeWeek": 799,
+    "timeMonth": 729,
+    "timeYear": 1525,
+    "dailyMinutesDown": {
+      "2021-03-23": 0,
+      "2020-11-18": 0
+    }
   },
   {
     "name": "BigWing",
@@ -28,12 +31,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 167,
-    "timeWeek": 457,
-    "timeMonth": 341,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 614,
+    "timeWeek": 443,
+    "timeMonth": 349,
+    "timeYear": 371,
+    "dailyMinutesDown": {
+      "2021-03-23": 0,
+      "2020-11-18": 0
+    }
   },
   {
     "name": "ReachLocal",
@@ -46,12 +52,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 749,
-    "timeWeek": 489,
-    "timeMonth": 647,
-    "timeYear": 611,
-    "dailyMinutesDown": {}
+    "time": 609,
+    "timeDay": 352,
+    "timeWeek": 497,
+    "timeMonth": 639,
+    "timeYear": 609,
+    "dailyMinutesDown": {
+      "2021-03-23": 0,
+      "2020-11-18": 0
+    }
   },
   {
     "name": "DesignIQ",
@@ -64,12 +73,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 145,
-    "timeWeek": 379,
-    "timeMonth": 418,
-    "timeYear": 456,
-    "dailyMinutesDown": {}
+    "time": 457,
+    "timeDay": 595,
+    "timeWeek": 381,
+    "timeMonth": 424,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2021-03-23": 0,
+      "2020-11-18": 0
+    }
   },
   {
     "name": "ThriveHive",
@@ -83,10 +95,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 89,
-    "timeWeek": 267,
+    "timeDay": 192,
+    "timeWeek": 246,
     "timeMonth": 205,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-23": 0,
+      "2020-11-18": 0
+    }
   }
 ]
