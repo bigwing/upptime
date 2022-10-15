@@ -4,17 +4,17 @@
     "url": "https://localiq.com",
     "icon": "https://favicons.githubusercontent.com/localiq.com",
     "slug": "loca-li-q",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 910,
-    "timeWeek": 620,
-    "timeMonth": 666,
-    "timeYear": 773,
+    "timeDay": 844,
+    "timeWeek": 608,
+    "timeMonth": 661,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 166,
     "timeWeek": 132,
     "timeMonth": 113,
-    "timeYear": 330,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "time": 368,
     "timeDay": 1153,
     "timeWeek": 492,
-    "timeMonth": 460,
-    "timeYear": 363,
+    "timeMonth": 462,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 243,
     "timeDay": 140,
     "timeWeek": 245,
-    "timeMonth": 248,
+    "timeMonth": 251,
     "timeYear": 223,
     "dailyMinutesDown": {}
   }
