@@ -13,7 +13,7 @@
     "time": 525,
     "timeDay": 116,
     "timeWeek": 340,
-    "timeMonth": 479,
+    "timeMonth": 480,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://bigwing.com",
     "icon": "https://2jntjtjrd6408dwz2fnxlc1c-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/bigwing_favicon_@2x.png",
     "slug": "big-wing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
