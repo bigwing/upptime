@@ -1,18 +1,22 @@
 owner: bigwing
 repo: upptime
-user-agent: bigwing-upptime
+user-agent: bigwingbot
 
 sites:
   - name: LocaliQ
     url: https://localiq.com
   - name: BigWing
     url: https://bigwing.com
+    icon: https://2jntjtjrd6408dwz2fnxlc1c-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/bigwing_favicon_@2x.png
   - name: ReachLocal
-    url: https://www.reachlocal.com
+    url: https://www.reachlocal.com/us/en
+    icon: https://www.reachlocal.com/sites/all/themes/reachlocal_pluto/images/reachlocal_favicon.png
   - name: DesignIQ
     url: https://www.designiq.com
+    icon: https://www.designiq.com/wp-content/uploads/2019/02/cropped-favicon-1-192x192.png
   - name: ThriveHive
     url: https://thrivehive.com
+    icon: https://thrivehive.com/wp-content/uploads/2019/08/cropped-Hive-gr-32x32.png
     
 assignees:
   - morganestes
@@ -24,13 +28,18 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BigWing Uptime Monitor
-  introTitle: "This is an open-source uptime monitor and status page, powered entirely by GitHub and Upptime."
-  introMessage: This page uses **real-time** data from our [Github repository](https://github.com/bigwing/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introTitle: "This is an open-source uptime monitor and status page, powered entirely by GitHub and Upptime."
+  #introMessage: This page uses **real-time** data from our [Github repository](https://github.com/bigwing/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Status Home
       href: /
-    - title: GitHub
+    - title: Raw Data
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
+  
+commitMessages:
+  commitAuthorName: "BigWing Bot"
+  commitAuthorEmail: "code@bigwing.io"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
