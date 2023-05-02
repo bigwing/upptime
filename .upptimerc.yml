@@ -3,7 +3,7 @@ repo: upptime
 user-agent: bigwing-upptime
 
 sites:
-  - name: LOCALiQ
+  - name: LocaliQ
     url: https://localiq.com
   - name: BigWing
     url: https://bigwing.com
