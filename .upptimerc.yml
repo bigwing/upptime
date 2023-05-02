@@ -4,13 +4,11 @@ user-agent: bigwingbot
 
 sites:
   - name: LocaliQ
-    url: https://localiq.com
+    url: https://localiq.com/
+    icon: https://localiq.com/wp-content/uploads/2022/10/cropped-localiq-website-favicon-q42022-32x32.png
   - name: BigWing
     url: https://bigwing.com
-    icon: https://2jntjtjrd6408dwz2fnxlc1c-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/bigwing_favicon_@2x.png
-  - name: ReachLocal
-    url: https://www.reachlocal.com/us/en
-    icon: https://www.reachlocal.com/sites/all/themes/reachlocal_pluto/images/reachlocal_favicon.png
+    icon: https://bigwing.com/wp-content/uploads/2017/04/bigwing_favicon_@2x.png
   - name: DesignIQ
     url: https://www.designiq.com
     icon: https://www.designiq.com/wp-content/uploads/2019/02/cropped-favicon-1-192x192.png
