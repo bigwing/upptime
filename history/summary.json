@@ -58,17 +58,17 @@
     "url": "https://thrivehive.com",
     "icon": "https://thrivehive.com/wp-content/uploads/2019/08/cropped-Hive-gr-32x32.png",
     "slug": "thrive-hive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 260,
-    "timeWeek": 287,
-    "timeMonth": 304,
-    "timeYear": 343,
+    "time": 333,
+    "timeDay": 322,
+    "timeWeek": 305,
+    "timeMonth": 308,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   }
 ]
