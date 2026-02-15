@@ -1,7 +1,7 @@
 url: https://localiq.com/
-status: up
-code: 200
-responseTime: 1169
-lastUpdated: 2026-02-14T23:42:19.285Z
+status: down
+code: 415
+responseTime: 345
+lastUpdated: 2026-02-15T14:35:55.339Z
 startTime: 2023-05-02T19:00:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
