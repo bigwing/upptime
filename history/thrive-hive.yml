@@ -1,7 +1,7 @@
 url: https://thrivehive.com
-status: up
-code: 200
-responseTime: 1884
-lastUpdated: 2026-07-13T23:55:53.686Z
+status: down
+code: 415
+responseTime: 303
+lastUpdated: 2026-07-14T23:55:10.943Z
 startTime: 2020-11-18T21:00:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
