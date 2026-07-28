@@ -4,17 +4,17 @@
     "url": "https://localiq.com/",
     "icon": "https://localiq.com/wp-content/uploads/2022/10/cropped-localiq-website-favicon-q42022-32x32.png",
     "slug": "locali-q",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 859,
-    "timeWeek": 991,
-    "timeMonth": 898,
-    "timeYear": 629,
+    "time": 544,
+    "timeDay": 945,
+    "timeWeek": 1010,
+    "timeMonth": 915,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 614,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 893,
+    "timeMonth": 907,
     "timeYear": 707,
     "dailyMinutesDown": {}
   }
