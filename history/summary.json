@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 40,
-    "timeWeek": 91,
+    "timeDay": 80,
+    "timeWeek": 99,
     "timeMonth": 125,
-    "timeYear": 710,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://www.designiq.com",
     "icon": "https://www.designiq.com/wp-content/uploads/2019/02/cropped-favicon-1-192x192.png",
     "slug": "design-iq",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 115,
-    "timeWeek": 137,
+    "time": 532,
+    "timeDay": 126,
+    "timeWeek": 148,
     "timeMonth": 225,
-    "timeYear": 445,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 134,
-    "timeWeek": 212,
-    "timeMonth": 265,
-    "timeYear": 782,
+    "timeDay": 172,
+    "timeWeek": 230,
+    "timeMonth": 264,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   }
 ]
